@@ -6,7 +6,7 @@
 **Senior AI Systems Architect | Cognitive AI Architect | Adversarial Red Teaming & Cognitive Security | Neuropsychopharmacology | DeepMind | Cognitive Architectures, LLM Safety, Adversarial Red Teaming & Neuro-Computational Research**
 
 - 🗣️ **Pronouns:** He/Him
-- 🏢 **Founder & Chief Artifical Intelligence Officer:** Omnicore AI
+- 🏢 **Founder & Chief Artificial Intelligence Officer:** Omnicore AI
 - 🌐 **Languages:** Portuguese (Native) · English (Fluent) · Spanish (Intermediate) · French (Basic)
 - 🔬 **Research Focus:** Cognitive AI Architectures, LLM Immunology, Exploit-Hardened Personas & Neuro-Computational Systems
 
