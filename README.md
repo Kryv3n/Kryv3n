@@ -17,7 +17,7 @@
 | Core Languages & Runtime | AI Architecture & Agents | Security, MCP & Tooling |
 | :--- | :--- | :--- |
 | `Python` | `PyTorch` | `MCP Servers` |
-| `Java` | `Agentic Workflows` | `LLM Red Teaming` |
+| `Java`/ `TypeScript`  | `Agentic Workflows` | `LLM Red Teaming` |
 | `Node.js` | `Ollama & Local LLMs` | `Cursor & Antigravity` |
 | `PostgreSQL / SQL` | `Graph-RAG & Embeddings` | `Git & CLI` |
 
