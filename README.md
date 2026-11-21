@@ -3,7 +3,7 @@
 <!-- BANNER PLACEHOLDER: Omnicore AI -->
 
 # Thales L. Micheli, PhD 🧠
-**Senior AI Systems Architect | Cognitive AI Architect | Adversarial Red Teaming & Cognitive Security**
+**Senior AI Systems Architect | Cognitive AI Architect | Adversarial Red Teaming & Cognitive Security | **
 **Neuropsychopharmacology | DeepMind | Cognitive Architectures, LLM Safety, Adversarial Red Teaming & Neuro-Computational Research**
 
 - 🗣️ **Pronouns:** He/Him
