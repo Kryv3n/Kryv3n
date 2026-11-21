@@ -28,6 +28,6 @@
 * **B.Sc. in Computer Science** — *FMU (Centro Universitário das Faculdades Metropolitanas Unidas)* `In Progress`
 * **B.Tech. in Artificial Intelligence & Machine Learning** — *UNIASSELVI* `2024`
 * **PhD in Neuropsychopharmacology** *(+ Postgraduate specializations in Neuroendocrinology, Genomics & Epigenetics)* `2024`
-* * **B.Pharm. in Pharmacy & Biochemistry** `2021`
+* **B.Pharm. in Pharmacy & Biochemistry** `2021`
 * **Pharmacy Technician** — *Hospital Israelita Albert Einstein (Instituto Israelita de Ensino e Pesquisa)* `2018`
 * **National Finalist — MOP-USP (Mostra Paulista de Ciências e Engenharia)** — Project: [*Sistema-T* (Proceedings, p. 27 / PDF p. 53)](https://febrace.org.br/wp-content/uploads/2021/08/anais_mop_2014.pdf) `2014`
